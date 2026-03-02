@@ -6,6 +6,8 @@
 
 The Abbot sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Abbot in Stronghold Crusader.
 
+The Abbot is a scheming, sanctimonious monastery lord who hides ruthless ambition behind a veil of piety. He speaks in honeyed religious platitudes while manipulating allies and crushing enemies, always careful to appear the wounded innocent when his plans unravel.
+
 ## Install
 
 ```bash
